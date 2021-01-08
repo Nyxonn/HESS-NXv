@@ -30,7 +30,7 @@ Harvester Equivalent String Searcher upgraded by Nyxon
 
 ![img7](https://imgur.com/I3Cs3Z1.png)
 
-### yunglean's old version
+### yunglean's original version
 
 - [Source](https://github.com/yunglean4171/Harvester-Equivalent-String-Searcher)
 - [Showcase](https://youtu.be/bPrGZwYbVas)
