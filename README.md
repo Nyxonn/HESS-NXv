@@ -16,4 +16,4 @@ Harvester Equivalent String Searcher upgraded by Nyxon
 ### Credits
 
 - Original program by [yunglean](https://github.com/yunglean4171)
-- Edited version by [Nyxon](https://github.com/Nyxonn)
+- Upgraded version by [Nyxon](https://github.com/Nyxonn)
