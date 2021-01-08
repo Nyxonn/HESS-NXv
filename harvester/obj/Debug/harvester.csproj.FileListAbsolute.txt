@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\obj\Debug\harvester.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\obj\Debug\harvester.Properties.Resources.resources
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\obj\Debug\harvester.csproj.GenerateResource.cache
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\obj\Debug\harvester.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\bin\Debug\harvester.exe.config
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\obj\Debug\harvester.exe
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\obj\Debug\harvester.pdb
+C:\Users\Daniel\Desktop\jakies cusie\harvester\harvester\obj\Debug\harvester.Form1.resources
