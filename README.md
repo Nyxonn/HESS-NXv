@@ -8,6 +8,9 @@ Harvester Equivalent String Searcher upgraded by Nyxon
 
 ### New version features
 
+- Can harvest multiple strings
+- Show up only important strings you looked for without unused code
+- Informs you about amount of readed lines and harvested strings
 
 ### Showcase
 
